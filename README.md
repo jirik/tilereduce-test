@@ -24,8 +24,8 @@ Number of features: { water: 31,
 ```
 
 
-## Difference of number of features
-Count difference of number of features between two mbtiles files
+## Compare number of features
+Compare number of features between two mbtiles files
 - per tile
 - per layer
 
